@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishanth artham</h1>
 <h3 align="center">A passionate MERN stack developer, Competitive Programmer, Undergrad student from India</h3>
 
-- 🏫 I’m currently persuing my studies from **Chaitanya Bharathi Institute Of Technology**
+- 🏫 I’m currently pursuing my studies from **Chaitanya Bharathi Institute Of Technology**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://nishanth-artham.netlify.app/](https://nishanth-artham.netlify.app/)
 
-- 💬 Ask me about **Reactjs, Expressjs**
+- 💬 Ask me about **Reactjs, Expressjs, Machine Learning**
 
-- 📫 How to reach me **arthamnishanth123@gmail.com**
+- 📫 How to reach me MAIL: **arthamnishanth123@gmail.com** Linkedin : **https://www.linkedin.com/in/nishanth-artham-1a572b212/**
 
 - 📄 Know about my experiences [https://nishanth-artham.netlify.app/](https://nishanth-artham.netlify.app/)
 
