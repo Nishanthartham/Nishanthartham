@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently pursuing my studies from **Chaitanya Bharathi Institute Of Technology**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://nishanth-artham.netlify.app/](https://nishanth-artham.netlify.app/)
 
